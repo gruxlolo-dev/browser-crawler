@@ -1,4 +1,3 @@
-````markdown
 # Rust Crawler 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -105,11 +104,8 @@ docker run -e DATABASE_URL=$DATABASE_URL rust-crawler
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
-```
-
 ---
 
 You can now **copy this whole block** and save it as `README.md`.  
 
 If you want, I can make a **full ready-to-run Bash script** that creates the Rust crawler project, adds this README, LICENSE, PostgreSQL schema, and builds everything automatically. Do you want me to do that?
-```
